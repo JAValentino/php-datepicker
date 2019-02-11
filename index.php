@@ -52,6 +52,8 @@
  													<tr>
  														<th>ID</th>
  														<th>Name</th>
+ 														<th>Item</th>
+ 														<th>Price</th>
  														<th>Date</th>
  													</tr>
  												</thead>
